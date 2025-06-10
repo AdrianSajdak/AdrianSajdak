@@ -130,7 +130,7 @@ Here are some of the technologies and tools I frequently use:
 ## 🐍 GitHub Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/AdrianSajdak/AdrianSajdak/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+  <img src="https://github.com/AdrianSajdak/AdrianSajdak/blob/main/dist/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 </p>
 
 ---
