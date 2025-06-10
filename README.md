@@ -1,10 +1,4 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MihirRajesh/MihirRajesh/master/assets/developer-activity.gif" alt="Developer Activity" width="400"/>
-</div>
-
----
-
-<div align="center">
   <h1>👋 Hey there! I'm Adrian!</h1>
   <h3>Software Developer | Building & Scaling | Automating Workflows | Learning & Sharing</h3>
 </div>
